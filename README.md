@@ -63,3 +63,6 @@
      - **Координаты тела** (x и y) как функции времени.
 
 ## Видео
+https://github.com/user-attachments/assets/a059903e-dd7b-4ebf-9132-45279bf4ead8
+
+
